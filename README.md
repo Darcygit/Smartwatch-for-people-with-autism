@@ -5,4 +5,4 @@ My 3 years Autism Volunteer Serves Program experience inspires me to design a sm
 It is still an idea.
 
 
-## Click "Clone or download" as PDF cannot be show
+## Click "Clone or download" in case of loading issue
